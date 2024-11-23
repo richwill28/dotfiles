@@ -78,16 +78,16 @@
 
 ## Essential Packages
 
-- `build-essential`.
-- `gdb`.
-- `llvm`.
-- `clang`.
-- `clang-tidy`.
-- `lldb`.
-- `cmake`.
-- `python-is-python3`.
-- `python3-pip`.
-- `opam`.
-- `dune`.
-- Rust.
-- Go.
+- `build-essential`
+- `gdb`
+- `llvm`
+- `clang`
+- `clang-tidy`
+- `lldb`
+- `cmake`
+- `python-is-python3`
+- `python3-pip`
+- `opam`
+- `dune`
+- Rust
+- Go
