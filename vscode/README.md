@@ -5,8 +5,13 @@
 - Better C++ Syntax
 - Better Comments
 - C/C++
+- C/C++ Snippets
+- C/C++ Themes
+- CMake
 - CMake Tools
 - Clang-Format
+- clangd
+- Dev Containers
 - Dracula Theme Official
 - Formatting Toggle
 - GitLens
@@ -15,6 +20,7 @@
 - Jupyter
 - LaTeX Workshop
 - Live Share
+- LTeX
 - Makefile Tools
 - Markdown All in One
 - markdownlint
